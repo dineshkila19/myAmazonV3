@@ -31,7 +31,7 @@ public class IndexPageTest extends BaseClass{
 		IndexPage indexPage=new IndexPage();
 		Log.info("user is validating myLogo");
 		boolean result=indexPage.validateMyLogo();
-		Assert.assertTrue(result);
+		Assert.assertTrue(false);
 		Log.info("verify Logo testcase is passed");
 		Log.endTestCase("verifyLogo");
 	}

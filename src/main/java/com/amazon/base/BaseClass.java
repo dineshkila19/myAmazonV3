@@ -89,7 +89,7 @@ public class BaseClass {
 		getDriver().get(prop.getProperty("url"));	
 	}
 	
-	@AfterSuite
+	@AfterSuite(groups= {"Smoke","Sanity","Regression"})
 	public void afterSuite() {
 		ExtentManager.endReport();
 	}
