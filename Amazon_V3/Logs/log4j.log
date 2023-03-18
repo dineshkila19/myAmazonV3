@@ -1,0 +1,423 @@
+2023-02/27 15:06:36 INFO  Log:17 - =========getTitleTEST START=========
+2023-02/27 15:06:36 INFO  Log:24 - user is getting my Title
+2023-02/27 15:06:36 INFO  Log:24 - getMyTitle test case is passed
+2023-02/27 15:06:36 INFO  Log:20 - =========getTitleTEST END=======
+2023-02/27 15:06:46 INFO  Log:17 - =========verifyLogoTEST START=========
+2023-02/27 15:06:46 INFO  Log:24 - user is validating myLogo
+2023-02/27 15:06:46 INFO  Log:24 - verify Logo testcase is passed
+2023-02/27 15:06:46 INFO  Log:20 - =========verifyLogoTEST END=======
+2023-02/27 15:14:37 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 15:14:37 INFO  Log:24 - user is going to enter email and password
+2023-02/27 17:02:56 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 17:02:56 INFO  Log:24 - user is going to enter email and password
+2023-02/27 17:03:06 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 17:03:47 INFO  Log:24 - login test is passed
+2023-02/27 17:03:47 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 17:14:02 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 17:14:02 INFO  Log:24 - user is going to enter email and password
+2023-02/27 17:14:08 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 17:14:14 INFO  Log:24 - login test is passed
+2023-02/27 17:14:14 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 17:14:23 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 17:14:23 INFO  Log:24 - user is going to enter email and password
+2023-02/27 17:14:28 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 17:14:30 INFO  Log:24 - login test is passed
+2023-02/27 17:14:30 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 17:14:38 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 17:14:38 INFO  Log:24 - user is going to enter email and password
+2023-02/27 17:14:43 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 17:14:45 INFO  Log:24 - login test is passed
+2023-02/27 17:14:45 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 17:14:55 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 17:14:55 INFO  Log:24 - user is going to enter email and password
+2023-02/27 17:15:00 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 17:15:05 INFO  Log:24 - login test is passed
+2023-02/27 17:15:05 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 17:52:05 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 17:52:05 INFO  Log:24 - user is going to enter email and password
+2023-02/27 17:52:10 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 17:52:16 INFO  Log:24 - login test is passed
+2023-02/27 17:52:16 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 17:52:27 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 17:52:27 INFO  Log:24 - user is going to enter email and password
+2023-02/27 17:52:32 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 17:52:34 INFO  Log:24 - login test is passed
+2023-02/27 17:52:34 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 17:52:43 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 17:52:43 INFO  Log:24 - user is going to enter email and password
+2023-02/27 17:52:48 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 17:52:48 INFO  Log:24 - login test is passed
+2023-02/27 17:52:48 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 17:52:58 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 17:52:58 INFO  Log:24 - user is going to enter email and password
+2023-02/27 17:53:04 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 17:53:09 INFO  Log:24 - login test is passed
+2023-02/27 17:53:09 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 17:53:20 INFO  Log:17 - =========getTitleTEST START=========
+2023-02/27 17:53:20 INFO  Log:24 - user is getting my Title
+2023-02/27 17:53:20 INFO  Log:24 - getMyTitle test case is passed
+2023-02/27 17:53:20 INFO  Log:20 - =========getTitleTEST END=======
+2023-02/27 17:53:27 INFO  Log:17 - =========verifyLogoTEST START=========
+2023-02/27 17:53:27 INFO  Log:24 - user is validating myLogo
+2023-02/27 17:53:27 INFO  Log:24 - verify Logo testcase is passed
+2023-02/27 17:53:27 INFO  Log:20 - =========verifyLogoTEST END=======
+2023-02/27 17:56:53 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 17:56:53 INFO  Log:24 - user is going to enter email and password
+2023-02/27 17:56:57 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 17:57:04 INFO  Log:24 - login test is passed
+2023-02/27 17:57:04 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 17:57:30 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 17:57:30 INFO  Log:24 - user is going to enter email and password
+2023-02/27 17:57:35 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 17:57:36 INFO  Log:24 - login test is passed
+2023-02/27 17:57:36 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 17:57:45 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 17:57:45 INFO  Log:24 - user is going to enter email and password
+2023-02/27 17:57:49 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 17:57:51 INFO  Log:24 - login test is passed
+2023-02/27 17:57:51 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 17:58:01 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 17:58:01 INFO  Log:24 - user is going to enter email and password
+2023-02/27 17:58:05 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 17:58:09 INFO  Log:24 - login test is passed
+2023-02/27 17:58:09 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 18:05:30 INFO  Log:17 - =========getTitleTEST START=========
+2023-02/27 18:05:30 INFO  Log:24 - user is getting my Title
+2023-02/27 18:05:31 INFO  Log:24 - getMyTitle test case is passed
+2023-02/27 18:05:31 INFO  Log:20 - =========getTitleTEST END=======
+2023-02/27 18:05:47 INFO  Log:17 - =========verifyLogoTEST START=========
+2023-02/27 18:05:47 INFO  Log:24 - user is validating myLogo
+2023-02/27 18:05:48 INFO  Log:24 - verify Logo testcase is passed
+2023-02/27 18:05:48 INFO  Log:20 - =========verifyLogoTEST END=======
+2023-02/27 18:06:21 INFO  Log:17 - =========getTitleTEST START=========
+2023-02/27 18:06:21 INFO  Log:24 - user is getting my Title
+2023-02/27 18:06:21 INFO  Log:24 - getMyTitle test case is passed
+2023-02/27 18:06:21 INFO  Log:20 - =========getTitleTEST END=======
+2023-02/27 18:06:41 INFO  Log:17 - =========verifyLogoTEST START=========
+2023-02/27 18:06:41 INFO  Log:24 - user is validating myLogo
+2023-02/27 18:06:42 INFO  Log:24 - verify Logo testcase is passed
+2023-02/27 18:06:42 INFO  Log:20 - =========verifyLogoTEST END=======
+2023-02/27 18:09:33 INFO  Log:17 - =========getTitleTEST START=========
+2023-02/27 18:09:33 INFO  Log:24 - user is getting my Title
+2023-02/27 18:09:34 INFO  Log:24 - getMyTitle test case is passed
+2023-02/27 18:09:34 INFO  Log:20 - =========getTitleTEST END=======
+2023-02/27 18:09:34 INFO  Log:17 - =========getTitleTEST START=========
+2023-02/27 18:09:34 INFO  Log:24 - user is getting my Title
+2023-02/27 18:09:34 INFO  Log:24 - getMyTitle test case is passed
+2023-02/27 18:09:34 INFO  Log:20 - =========getTitleTEST END=======
+2023-02/27 18:09:56 INFO  Log:17 - =========verifyLogoTEST START=========
+2023-02/27 18:09:56 INFO  Log:24 - user is validating myLogo
+2023-02/27 18:09:58 INFO  Log:24 - verify Logo testcase is passed
+2023-02/27 18:09:58 INFO  Log:20 - =========verifyLogoTEST END=======
+2023-02/27 18:10:03 INFO  Log:17 - =========verifyLogoTEST START=========
+2023-02/27 18:10:03 INFO  Log:24 - user is validating myLogo
+2023-02/27 18:10:04 INFO  Log:24 - verify Logo testcase is passed
+2023-02/27 18:10:04 INFO  Log:20 - =========verifyLogoTEST END=======
+2023-02/27 18:19:50 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 18:19:51 INFO  Log:24 - user is going to enter email and password
+2023-02/27 18:19:57 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 18:20:03 INFO  Log:24 - login test is passed
+2023-02/27 18:20:03 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 18:20:17 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 18:20:17 INFO  Log:24 - user is going to enter email and password
+2023-02/27 18:20:23 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 18:20:23 INFO  Log:24 - login test is passed
+2023-02/27 18:20:23 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 18:20:39 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 18:20:39 INFO  Log:24 - user is going to enter email and password
+2023-02/27 18:20:46 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 18:20:47 INFO  Log:24 - login test is passed
+2023-02/27 18:20:47 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 18:21:03 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 18:21:03 INFO  Log:24 - user is going to enter email and password
+2023-02/27 18:21:10 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 18:21:16 INFO  Log:24 - login test is passed
+2023-02/27 18:21:16 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 18:22:03 INFO  Log:17 - =========getTitleTEST START=========
+2023-02/27 18:22:03 INFO  Log:24 - user is getting my Title
+2023-02/27 18:22:03 INFO  Log:24 - getMyTitle test case is passed
+2023-02/27 18:22:03 INFO  Log:20 - =========getTitleTEST END=======
+2023-02/27 18:22:18 INFO  Log:17 - =========verifyLogoTEST START=========
+2023-02/27 18:22:18 INFO  Log:24 - user is validating myLogo
+2023-02/27 18:22:19 INFO  Log:24 - verify Logo testcase is passed
+2023-02/27 18:22:19 INFO  Log:20 - =========verifyLogoTEST END=======
+2023-02/27 18:28:48 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 18:28:48 INFO  Log:24 - user is going to enter email and password
+2023-02/27 18:28:52 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 18:28:52 INFO  Log:24 - login test is passed
+2023-02/27 18:28:52 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 18:29:04 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 18:29:04 INFO  Log:24 - user is going to enter email and password
+2023-02/27 18:29:08 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 18:29:09 INFO  Log:24 - login test is passed
+2023-02/27 18:29:09 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 18:29:21 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 18:29:21 INFO  Log:24 - user is going to enter email and password
+2023-02/27 18:29:25 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 18:29:27 INFO  Log:24 - login test is passed
+2023-02/27 18:29:27 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 18:29:39 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/27 18:29:39 INFO  Log:24 - user is going to enter email and password
+2023-02/27 18:29:46 INFO  Log:24 - user successfully enterd credentials
+2023-02/27 18:29:50 INFO  Log:24 - login test is passed
+2023-02/27 18:29:50 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/27 18:30:02 INFO  Log:17 - =========selectProductTestTEST START=========
+2023-02/27 18:30:02 INFO  Log:24 - user is going to click on signin
+2023-02/27 18:30:06 INFO  Log:24 - user successfully entered credentials
+2023-02/27 18:30:14 INFO  Log:24 - user successfully entered iphone 12
+2023-02/27 18:30:15 INFO  Log:24 - selectProductTest is passed
+2023-02/27 18:30:15 INFO  Log:20 - =========selectProductTestTEST END=======
+2023-02/27 18:30:25 INFO  Log:17 - =========verifyHellowAddressTEST START=========
+2023-02/27 18:30:25 INFO  Log:24 - user is going to click on signin
+2023-02/27 18:30:29 INFO  Log:24 - user successfully entered credentials
+2023-02/27 18:30:33 INFO  Log:24 - verifyHellowAddress test is passed
+2023-02/27 18:30:33 INFO  Log:20 - =========verifyHellowAddressTEST END=======
+2023-02/27 18:30:49 INFO  Log:17 - =========getTitleTEST START=========
+2023-02/27 18:30:49 INFO  Log:24 - user is getting my Title
+2023-02/27 18:30:49 INFO  Log:24 - getMyTitle test case is passed
+2023-02/27 18:30:49 INFO  Log:20 - =========getTitleTEST END=======
+2023-02/27 18:31:25 INFO  Log:17 - =========verifyLogoTEST START=========
+2023-02/27 18:31:25 INFO  Log:24 - user is validating myLogo
+2023-02/27 18:31:25 INFO  Log:24 - verify Logo testcase is passed
+2023-02/27 18:31:25 INFO  Log:20 - =========verifyLogoTEST END=======
+2023-02/28 10:03:39 INFO  Log:17 - =========getTitleTEST START=========
+2023-02/28 10:03:39 INFO  Log:24 - user is getting my Title
+2023-02/28 10:03:39 INFO  Log:24 - getMyTitle test case is passed
+2023-02/28 10:03:39 INFO  Log:20 - =========getTitleTEST END=======
+2023-02/28 10:03:47 INFO  Log:17 - =========verifyLogoTEST START=========
+2023-02/28 10:03:47 INFO  Log:24 - user is validating myLogo
+2023-02/28 10:03:47 INFO  Log:24 - verify Logo testcase is passed
+2023-02/28 10:03:47 INFO  Log:20 - =========verifyLogoTEST END=======
+2023-02/28 10:04:28 INFO  Log:17 - =========getTitleTEST START=========
+2023-02/28 10:04:28 INFO  Log:24 - user is getting my Title
+2023-02/28 10:04:28 INFO  Log:24 - getMyTitle test case is passed
+2023-02/28 10:04:28 INFO  Log:20 - =========getTitleTEST END=======
+2023-02/28 10:04:39 INFO  Log:17 - =========verifyLogoTEST START=========
+2023-02/28 10:04:39 INFO  Log:24 - user is validating myLogo
+2023-02/28 10:04:39 INFO  Log:24 - verify Logo testcase is passed
+2023-02/28 10:04:39 INFO  Log:20 - =========verifyLogoTEST END=======
+2023-02/28 13:18:27 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 13:18:27 INFO  Log:24 - user is going to enter email and password
+2023-02/28 13:18:34 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 13:18:43 INFO  Log:24 - login test is passed
+2023-02/28 13:18:43 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 13:19:02 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 13:19:02 INFO  Log:24 - user is going to enter email and password
+2023-02/28 13:19:11 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 13:19:17 INFO  Log:24 - login test is passed
+2023-02/28 13:19:17 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 13:20:09 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 13:20:09 INFO  Log:24 - user is going to enter email and password
+2023-02/28 13:20:17 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 13:20:20 INFO  Log:24 - login test is passed
+2023-02/28 13:20:20 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 13:20:33 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 13:20:33 INFO  Log:24 - user is going to enter email and password
+2023-02/28 13:20:40 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 13:20:49 INFO  Log:24 - login test is passed
+2023-02/28 13:20:49 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 13:21:02 INFO  Log:17 - =========selectProductTestTEST START=========
+2023-02/28 13:21:02 INFO  Log:24 - user is going to click on signin
+2023-02/28 13:21:16 INFO  Log:24 - user successfully entered credentials
+2023-02/28 13:21:38 INFO  Log:24 - user successfully entered iphone 12
+2023-02/28 13:22:05 INFO  Log:17 - =========verifyHellowAddressTEST START=========
+2023-02/28 13:22:05 INFO  Log:24 - user is going to click on signin
+2023-02/28 13:22:12 INFO  Log:24 - user successfully entered credentials
+2023-02/28 13:22:25 INFO  Log:24 - verifyHellowAddress test is passed
+2023-02/28 13:22:25 INFO  Log:20 - =========verifyHellowAddressTEST END=======
+2023-02/28 13:22:41 INFO  Log:17 - =========getTitleTEST START=========
+2023-02/28 13:22:41 INFO  Log:24 - user is getting my Title
+2023-02/28 13:22:41 INFO  Log:24 - getMyTitle test case is passed
+2023-02/28 13:22:41 INFO  Log:20 - =========getTitleTEST END=======
+2023-02/28 13:22:52 INFO  Log:17 - =========verifyLogoTEST START=========
+2023-02/28 13:22:52 INFO  Log:24 - user is validating myLogo
+2023-02/28 13:22:53 INFO  Log:24 - verify Logo testcase is passed
+2023-02/28 13:22:53 INFO  Log:20 - =========verifyLogoTEST END=======
+2023-02/28 13:29:59 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 13:30:00 INFO  Log:24 - user is going to enter email and password
+2023-02/28 13:30:04 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 13:30:04 INFO  Log:24 - user is going to enter email and password
+2023-02/28 13:31:00 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 13:31:00 INFO  Log:24 - user is going to enter email and password
+2023-02/28 13:31:05 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 13:31:05 INFO  Log:24 - user is going to enter email and password
+2023-02/28 13:31:09 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 13:31:09 INFO  Log:24 - login test is passed
+2023-02/28 13:31:09 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 13:31:16 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 13:31:29 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 13:31:29 INFO  Log:24 - user is going to enter email and password
+2023-02/28 13:31:33 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 13:31:33 INFO  Log:24 - login test is passed
+2023-02/28 13:31:33 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 13:31:35 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 13:31:35 INFO  Log:24 - user is going to enter email and password
+2023-02/28 13:31:40 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 13:31:41 INFO  Log:24 - login test is passed
+2023-02/28 13:31:41 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 13:31:50 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 13:31:50 INFO  Log:24 - user is going to enter email and password
+2023-02/28 13:31:55 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 13:31:55 INFO  Log:24 - user is going to enter email and password
+2023-02/28 13:31:56 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 13:31:56 INFO  Log:24 - login test is passed
+2023-02/28 13:31:56 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 13:32:01 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 13:32:01 INFO  Log:24 - login test is passed
+2023-02/28 13:32:01 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 13:32:15 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 13:32:15 INFO  Log:24 - user is going to enter email and password
+2023-02/28 13:32:16 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 13:32:16 INFO  Log:24 - user is going to enter email and password
+2023-02/28 13:32:19 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 13:32:19 INFO  Log:24 - login test is passed
+2023-02/28 13:32:19 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 13:32:23 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 13:32:35 INFO  Log:17 - =========selectProductTestTEST START=========
+2023-02/28 13:32:35 INFO  Log:24 - user is going to click on signin
+2023-02/28 13:32:41 INFO  Log:24 - user successfully entered credentials
+2023-02/28 13:32:45 INFO  Log:17 - =========selectProductTestTEST START=========
+2023-02/28 13:32:45 INFO  Log:24 - user is going to click on signin
+2023-02/28 13:32:50 INFO  Log:24 - user successfully entered credentials
+2023-02/28 13:32:57 INFO  Log:24 - user successfully entered iphone 12
+2023-02/28 13:33:14 INFO  Log:17 - =========verifyHellowAddressTEST START=========
+2023-02/28 13:33:14 INFO  Log:24 - user is going to click on signin
+2023-02/28 13:33:19 INFO  Log:24 - user successfully entered credentials
+2023-02/28 13:33:28 INFO  Log:17 - =========verifyHellowAddressTEST START=========
+2023-02/28 13:33:28 INFO  Log:24 - user is going to click on signin
+2023-02/28 13:33:32 INFO  Log:24 - user successfully entered credentials
+2023-02/28 13:33:41 INFO  Log:24 - verifyHellowAddress test is passed
+2023-02/28 13:33:41 INFO  Log:20 - =========verifyHellowAddressTEST END=======
+2023-02/28 13:33:49 INFO  Log:17 - =========getTitleTEST START=========
+2023-02/28 13:33:49 INFO  Log:24 - user is getting my Title
+2023-02/28 13:33:49 INFO  Log:24 - getMyTitle test case is passed
+2023-02/28 13:33:49 INFO  Log:20 - =========getTitleTEST END=======
+2023-02/28 13:33:56 INFO  Log:17 - =========getTitleTEST START=========
+2023-02/28 13:33:56 INFO  Log:24 - user is getting my Title
+2023-02/28 13:33:57 INFO  Log:24 - getMyTitle test case is passed
+2023-02/28 13:33:57 INFO  Log:20 - =========getTitleTEST END=======
+2023-02/28 13:34:04 INFO  Log:17 - =========verifyLogoTEST START=========
+2023-02/28 13:34:04 INFO  Log:24 - user is validating myLogo
+2023-02/28 13:34:05 INFO  Log:24 - verify Logo testcase is passed
+2023-02/28 13:34:05 INFO  Log:20 - =========verifyLogoTEST END=======
+2023-02/28 13:34:17 INFO  Log:17 - =========verifyLogoTEST START=========
+2023-02/28 13:34:17 INFO  Log:24 - user is validating myLogo
+2023-02/28 13:34:17 INFO  Log:24 - verify Logo testcase is passed
+2023-02/28 13:34:17 INFO  Log:20 - =========verifyLogoTEST END=======
+2023-02/28 14:48:36 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 14:48:36 INFO  Log:24 - user is going to enter email and password
+2023-02/28 14:48:41 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 14:48:48 INFO  Log:24 - login test is passed
+2023-02/28 14:48:48 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 14:48:58 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 14:48:58 INFO  Log:24 - user is going to enter email and password
+2023-02/28 14:49:04 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 14:49:05 INFO  Log:24 - login test is passed
+2023-02/28 14:49:05 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 14:49:13 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 14:49:13 INFO  Log:24 - user is going to enter email and password
+2023-02/28 14:49:19 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 14:49:20 INFO  Log:24 - login test is passed
+2023-02/28 14:49:20 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 14:49:31 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 14:49:31 INFO  Log:24 - user is going to enter email and password
+2023-02/28 14:49:36 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 14:49:41 INFO  Log:24 - login test is passed
+2023-02/28 14:49:41 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 15:45:08 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 15:45:08 INFO  Log:24 - user is going to enter email and password
+2023-02/28 15:45:13 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 15:45:18 INFO  Log:24 - login test is passed
+2023-02/28 15:45:18 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 15:45:29 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 15:45:29 INFO  Log:24 - user is going to enter email and password
+2023-02/28 15:45:33 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 15:45:34 INFO  Log:24 - login test is passed
+2023-02/28 15:45:34 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 15:45:43 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 15:45:43 INFO  Log:24 - user is going to enter email and password
+2023-02/28 15:45:47 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 15:45:48 INFO  Log:24 - login test is passed
+2023-02/28 15:45:48 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 15:45:56 INFO  Log:17 - =========loginTestTEST START=========
+2023-02/28 15:45:56 INFO  Log:24 - user is going to enter email and password
+2023-02/28 15:46:01 INFO  Log:24 - user successfully enterd credentials
+2023-02/28 15:46:01 INFO  Log:24 - login test is passed
+2023-02/28 15:46:01 INFO  Log:20 - =========loginTestTEST END=======
+2023-02/28 15:46:08 INFO  Log:17 - =========verifyHellowAddressTEST START=========
+2023-02/28 15:46:08 INFO  Log:24 - user is going to click on signin
+2023-02/28 15:46:12 INFO  Log:24 - user successfully entered credentials
+2023-02/28 15:46:16 INFO  Log:24 - verifyHellowAddress test is passed
+2023-02/28 15:46:16 INFO  Log:20 - =========verifyHellowAddressTEST END=======
+2023-02/28 15:46:26 INFO  Log:17 - =========getTitleTEST START=========
+2023-02/28 15:46:26 INFO  Log:24 - user is getting my Title
+2023-02/28 15:46:26 INFO  Log:24 - getMyTitle test case is passed
+2023-02/28 15:46:26 INFO  Log:20 - =========getTitleTEST END=======
+2023-02/28 15:46:34 INFO  Log:17 - =========verifyLogoTEST START=========
+2023-02/28 15:46:34 INFO  Log:24 - user is validating myLogo
+2023-02/28 15:46:34 INFO  Log:24 - verify Logo testcase is passed
+2023-02/28 15:46:34 INFO  Log:20 - =========verifyLogoTEST END=======
+2023-03/10 14:50:28 INFO  Log:17 - =========selectProductTestTEST START=========
+2023-03/10 14:50:29 INFO  Log:24 - user is going to click on signin
+2023-03/10 14:50:33 INFO  Log:24 - user successfully entered credentials
+2023-03/10 14:50:42 INFO  Log:24 - user successfully entered iphone 12
+2023-03/10 14:50:58 INFO  Log:17 - =========selectProductTestTEST START=========
+2023-03/10 14:50:58 INFO  Log:24 - user is going to click on signin
+2023-03/10 14:51:03 INFO  Log:24 - user successfully entered credentials
+2023-03/10 14:51:09 INFO  Log:24 - user successfully entered iphone 12
+2023-03/10 14:51:25 INFO  Log:17 - =========selectProductTestTEST START=========
+2023-03/10 14:51:25 INFO  Log:24 - user is going to click on signin
+2023-03/10 14:51:29 INFO  Log:24 - user successfully entered credentials
+2023-03/10 14:51:37 INFO  Log:24 - user successfully entered iphone 12
+2023-03/10 14:51:55 INFO  Log:17 - =========selectProductTestTEST START=========
+2023-03/10 14:51:55 INFO  Log:24 - user is going to click on signin
+2023-03/10 14:52:01 INFO  Log:24 - user successfully entered credentials
+2023-03/10 14:52:07 INFO  Log:24 - user successfully entered iphone 12
+2023-03/10 14:56:33 INFO  Log:17 - =========selectProductTestTEST START=========
+2023-03/10 14:56:33 INFO  Log:24 - user is going to click on signin
+2023-03/10 14:56:37 INFO  Log:24 - user successfully entered credentials
+2023-03/10 14:56:43 INFO  Log:24 - user successfully entered iphone 12
+2023-03/10 14:56:43 INFO  Log:24 - selectProductTest is passed
+2023-03/10 14:56:43 INFO  Log:20 - =========selectProductTestTEST END=======
+2023-03/10 14:56:49 INFO  Log:17 - =========selectProductTestTEST START=========
+2023-03/10 14:56:49 INFO  Log:24 - user is going to click on signin
+2023-03/10 14:56:53 INFO  Log:24 - user successfully entered credentials
+2023-03/10 14:56:59 INFO  Log:24 - user successfully entered iphone 12
+2023-03/10 14:57:14 INFO  Log:17 - =========selectProductTestTEST START=========
+2023-03/10 14:57:14 INFO  Log:24 - user is going to click on signin
+2023-03/10 14:57:18 INFO  Log:24 - user successfully entered credentials
+2023-03/10 14:57:25 INFO  Log:24 - user successfully entered iphone 12
+2023-03/10 14:57:40 INFO  Log:17 - =========selectProductTestTEST START=========
+2023-03/10 14:57:40 INFO  Log:24 - user is going to click on signin
+2023-03/10 14:57:44 INFO  Log:24 - user successfully entered credentials
+2023-03/10 14:57:50 INFO  Log:24 - user successfully entered iphone 12
+2023-03/17 15:02:18 INFO  Log:17 - =========loginTestTEST START=========
+2023-03/17 15:02:18 INFO  Log:24 - user is going to enter email and password
+2023-03/17 15:02:22 INFO  Log:24 - user successfully enterd credentials
+2023-03/17 15:02:25 INFO  Log:24 - login test is passed
+2023-03/17 15:02:25 INFO  Log:20 - =========loginTestTEST END=======
+2023-03/17 15:02:31 INFO  Log:17 - =========loginTestTEST START=========
+2023-03/17 15:02:31 INFO  Log:24 - user is going to enter email and password
+2023-03/17 15:03:00 INFO  Log:17 - =========loginTestTEST START=========
+2023-03/17 15:03:00 INFO  Log:24 - user is going to enter email and password
+2023-03/17 15:03:04 INFO  Log:24 - user successfully enterd credentials
+2023-03/17 15:03:05 INFO  Log:24 - login test is passed
+2023-03/17 15:03:05 INFO  Log:20 - =========loginTestTEST END=======
+2023-03/17 15:03:11 INFO  Log:17 - =========loginTestTEST START=========
+2023-03/17 15:03:11 INFO  Log:24 - user is going to enter email and password
+2023-03/17 15:03:15 INFO  Log:24 - user successfully enterd credentials
+2023-03/17 15:03:18 INFO  Log:24 - login test is passed
+2023-03/17 15:03:18 INFO  Log:20 - =========loginTestTEST END=======
+2023-03/17 15:03:24 INFO  Log:17 - =========verifyHellowAddressTEST START=========
+2023-03/17 15:03:24 INFO  Log:24 - user is going to click on signin
+2023-03/17 15:03:28 INFO  Log:24 - user successfully entered credentials
+2023-03/17 15:03:31 INFO  Log:24 - verifyHellowAddress test is passed
+2023-03/17 15:03:31 INFO  Log:20 - =========verifyHellowAddressTEST END=======
+2023-03/17 15:03:37 INFO  Log:17 - =========getTitleTEST START=========
+2023-03/17 15:03:37 INFO  Log:24 - user is getting my Title
+2023-03/17 15:03:37 INFO  Log:24 - getMyTitle test case is passed
+2023-03/17 15:03:37 INFO  Log:20 - =========getTitleTEST END=======
+2023-03/17 15:03:43 INFO  Log:17 - =========verifyLogoTEST START=========
+2023-03/17 15:03:43 INFO  Log:24 - user is validating myLogo
+2023-03/17 15:03:44 INFO  Log:24 - verify Logo testcase is passed
+2023-03/17 15:03:44 INFO  Log:20 - =========verifyLogoTEST END=======
