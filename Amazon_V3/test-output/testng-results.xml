@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="3" total="7" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="143148" started-at="2023-08-11T07:36:06Z" finished-at="2023-08-11T07:38:30Z">
+    <groups>
+      <group name="Sanity">
+        <method signature="LoginPageTest.loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testcases.LoginPageTest@67205a84]" name="loginTest" class="com.amazon.testcases.LoginPageTest"/>
+      </group> <!-- Sanity -->
+      <group name="Smoke">
+        <method signature="LoginPageTest.loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testcases.LoginPageTest@67205a84]" name="loginTest" class="com.amazon.testcases.LoginPageTest"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Sanity" duration-ms="143148" started-at="2023-08-11T07:36:06Z" finished-at="2023-08-11T07:38:30Z">
+      <class name="com.amazon.testcases.LoginPageTest">
+        <test-method status="PASS" signature="loadConfig()[pri:0, instance:com.amazon.testcases.LoginPageTest@67205a84]" name="loadConfig" is-config="true" duration-ms="997" started-at="2023-08-11T07:36:05Z" finished-at="2023-08-11T07:36:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.amazon.testcases.LoginPageTest@67205a84]" name="setUp" is-config="true" duration-ms="27199" started-at="2023-08-11T07:36:10Z" finished-at="2023-08-11T07:36:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testcases.LoginPageTest@67205a84]" name="loginTest" duration-ms="10916" started-at="2023-08-11T07:36:37Z" data-provider="AmazonLoginData" finished-at="2023-08-11T07:36:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kila.dinesh19@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dinesh@19]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.testcases.LoginPageTest@67205a84]" name="tearDown" is-config="true" duration-ms="1044" started-at="2023-08-11T07:36:48Z" finished-at="2023-08-11T07:36:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.amazon.testcases.LoginPageTest@67205a84]" name="setUp" is-config="true" duration-ms="15197" started-at="2023-08-11T07:36:49Z" finished-at="2023-08-11T07:37:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testcases.LoginPageTest@67205a84]" name="loginTest" duration-ms="24099" started-at="2023-08-11T07:37:05Z" data-provider="AmazonLoginData" finished-at="2023-08-11T07:37:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bablukila@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dineshchinna19]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.json.JsonException">
+            <message>
+              <![CDATA[java.lang.reflect.InvocationTargetException
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DINESHKILA', ip: '192.168.123.222', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [70a43279108a8be595c1e75febe83f9c, actions {actions=[org.openqa.selenium.interactions.Sequence@58c1da09]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:65337}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65337/devtoo..., se:cdpVersion: 104.0.5112.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 70a43279108a8be595c1e75febe83f9c]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.json.JsonException: java.lang.reflect.InvocationTargetException
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DINESHKILA', ip: '192.168.123.222', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [70a43279108a8be595c1e75febe83f9c, actions {actions=[org.openqa.selenium.interactions.Sequence@58c1da09]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:65337}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65337/devtoo..., se:cdpVersion: 104.0.5112.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 70a43279108a8be595c1e75febe83f9c
+at org.openqa.selenium.json.JsonOutput.convertUsingMethod(JsonOutput.java:362)
+at org.openqa.selenium.json.JsonOutput.lambda$new$16(JsonOutput.java:154)
+at org.openqa.selenium.json.JsonOutput.write(JsonOutput.java:287)
+at org.openqa.selenium.json.JsonOutput.lambda$new$22(JsonOutput.java:169)
+at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
+at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)
+at java.util.Iterator.forEachRemaining(Iterator.java:116)
+at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:481)
+at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:418)
+at org.openqa.selenium.json.JsonOutput.lambda$new$23(JsonOutput.java:169)
+at org.openqa.selenium.json.JsonOutput.write(JsonOutput.java:287)
+at org.openqa.selenium.json.JsonOutput.lambda$new$24(JsonOutput.java:182)
+at com.google.common.collect.SingletonImmutableBiMap.forEach(SingletonImmutableBiMap.java:68)
+at org.openqa.selenium.json.JsonOutput.lambda$new$25(JsonOutput.java:177)
+at org.openqa.selenium.json.JsonOutput.write(JsonOutput.java:287)
+at org.openqa.selenium.json.JsonOutput.write(JsonOutput.java:278)
+at org.openqa.selenium.json.Json.toJson(Json.java:42)
+at org.openqa.selenium.remote.codec.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:259)
+at org.openqa.selenium.remote.codec.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:127)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:172)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.RemoteWebDriver.perform(RemoteWebDriver.java:615)
+at org.openqa.selenium.interactions.Actions$BuiltAction.perform(Actions.java:567)
+at com.amazon.actiondriver.Action.click(Action.java:47)
+at com.amazon.pageobjects.LoginPage.clickOnLogin(LoginPage.java:33)
+at com.amazon.testcases.LoginPageTest.loginTest(LoginPageTest.java:40)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Suppressed: org.openqa.selenium.json.JsonException: Attempting to close incomplete json stream
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DINESHKILA', ip: '192.168.123.222', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.json.JsonOutput.close(JsonOutput.java:303)
+at org.openqa.selenium.json.Json.toJson(Json.java:40)
+... 36 more
+Caused by: java.lang.reflect.InvocationTargetException
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.openqa.selenium.json.JsonOutput.convertUsingMethod(JsonOutput.java:358)
+... 57 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='signInSubmit']"}
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DINESHKILA', ip: '192.168.123.222', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [70a43279108a8be595c1e75febe83f9c, findElement {using=xpath, value=//input[@id='signInSubmit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:65337}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65337/devtoo..., se:cdpVersion: 104.0.5112.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 70a43279108a8be595c1e75febe83f9c
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at com.sun.proxy.$Proxy22.getWrappedElement(Unknown Source)
+at org.openqa.selenium.interactions.PointerInput$Origin.asArg(PointerInput.java:260)
+at org.openqa.selenium.interactions.PointerInput$Move.encode(PointerInput.java:209)
+at org.openqa.selenium.interactions.Sequence.encode(Sequence.java:73)
+at org.openqa.selenium.interactions.Sequence.toJson(Sequence.java:82)
+... 62 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.json.JsonException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.testcases.LoginPageTest@67205a84]" name="tearDown" is-config="true" duration-ms="1191" started-at="2023-08-11T07:37:29Z" finished-at="2023-08-11T07:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.amazon.testcases.LoginPageTest@67205a84]" name="setUp" is-config="true" duration-ms="6591" started-at="2023-08-11T07:37:30Z" finished-at="2023-08-11T07:37:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testcases.LoginPageTest@67205a84]" name="loginTest" duration-ms="17224" started-at="2023-08-11T07:37:37Z" data-provider="AmazonLoginData" finished-at="2023-08-11T07:37:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dineshchinna19@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dinesh22]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.testcases.LoginPageTest@67205a84]" name="tearDown" is-config="true" duration-ms="1009" started-at="2023-08-11T07:37:54Z" finished-at="2023-08-11T07:37:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.amazon.testcases.LoginPageTest@67205a84]" name="setUp" is-config="true" duration-ms="15597" started-at="2023-08-11T07:37:55Z" finished-at="2023-08-11T07:38:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.testcases.LoginPageTest@67205a84]" name="loginTest" duration-ms="17698" started-at="2023-08-11T07:38:11Z" data-provider="AmazonLoginData" finished-at="2023-08-11T07:38:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kila.dinesh19@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dinesh@19]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [https://www.amazon.in/ap/signin] but found [https://www.amazon.in/ap/cvf/transactionapproval?arb=4ac96759-5fa5-49bc-a0af-2429abe10a80&openid.assoc_handle=inflex&pageId=inflex&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fap%2Fsignin%3Fie%3DUTF8%26clientContext%3D259-9619958-6881718%26arb%3D5fd32256-3e1a-4b90-ab5c-a64da65483a4%26openid.pape.max_auth_age%3D0%26use_global_authentication%3Dfalse%26openid.return_to%3Dhttps%253A%252F%252Fwww.amazon.in%252Fgp%252Fcss%252Fhomepage.html%252Fref%253Dnav_ya_signin%26openid.identity%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%252Fidentifier_select%26openid.assoc_handle%3Dinflex%26openid.mode%3Dcheckid_setup%26openid.claimed_id%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%252Fidentifier_select%26pageId%3Dinflex%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [https://www.amazon.in/ap/signin] but found [https://www.amazon.in/ap/cvf/transactionapproval?arb=4ac96759-5fa5-49bc-a0af-2429abe10a80&openid.assoc_handle=inflex&pageId=inflex&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fap%2Fsignin%3Fie%3DUTF8%26clientContext%3D259-9619958-6881718%26arb%3D5fd32256-3e1a-4b90-ab5c-a64da65483a4%26openid.pape.max_auth_age%3D0%26use_global_authentication%3Dfalse%26openid.return_to%3Dhttps%253A%252F%252Fwww.amazon.in%252Fgp%252Fcss%252Fhomepage.html%252Fref%253Dnav_ya_signin%26openid.identity%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%252Fidentifier_select%26openid.assoc_handle%3Dinflex%26openid.mode%3Dcheckid_setup%26openid.claimed_id%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%252Fidentifier_select%26pageId%3Dinflex%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at com.amazon.testcases.LoginPageTest.loginTest(LoginPageTest.java:44)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.testcases.LoginPageTest@67205a84]" name="tearDown" is-config="true" duration-ms="1038" started-at="2023-08-11T07:38:29Z" finished-at="2023-08-11T07:38:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.amazon.testcases.LoginPageTest@67205a84]" name="afterSuite" is-config="true" duration-ms="413" started-at="2023-08-11T07:38:30Z" finished-at="2023-08-11T07:38:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.amazon.testcases.LoginPageTest -->
+    </test> <!-- Sanity -->
+  </suite> <!-- Suite -->
+</testng-results>
